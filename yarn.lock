@@ -999,10 +999,10 @@
     react-is "16.10.2"
     styled-system "5.1.2"
 
-"@primer/css@^14.2.0":
-  version "14.2.0"
-  resolved "https://registry.yarnpkg.com/@primer/css/-/css-14.2.0.tgz#7debf703a68aeabbdc5ff38838ea1d649744f1cf"
-  integrity sha512-BvBuw0V8ypOFpFhvXRpPWQQ3w/piUMS/Pp/rRg3ddnw0eu2keC2Sj+CzJv3ofsiGoq7juHGfGQlqkOWmSQjXRw==
+"@primer/css@^14.4.0":
+  version "14.4.0"
+  resolved "https://registry.yarnpkg.com/@primer/css/-/css-14.4.0.tgz#7a131411dd38890e9019f804a3cd0663b17575fc"
+  integrity sha512-o9DwcAH43jZNDC/rPLjsYTU/I1LsHIgIQlSO3X8vZV2u65LmWeA5jHI2cSadZYN3N0Gm0Soh0zVYuhh7kMskXA==
   dependencies:
     "@primer/octicons" "^9.1.1"
 
